@@ -4,6 +4,12 @@
 
 # 🌤️ Weather App (React Controlled Component)
 
+![GitHub stars](https://img.shields.io/github/stars/durgashankard/Weather-App-Create-using-Controlled-Component?style=social)
+![GitHub forks](https://img.shields.io/github/forks/durgashankard/Weather-App-Create-using-Controlled-Component?style=social)
+![GitHub issues](https://img.shields.io/github/issues/durgashankard/Weather-App-Create-using-Controlled-Component)
+![GitHub license](https://img.shields.io/github/license/durgashankard/Weather-App-Create-using-Controlled-Component)
+![Netlify](https://img.shields.io/badge/Netlify-Live-brightgreen?logo=netlify)
+
 A simple and responsive **Weather Application** built using **React JS**.
 This project demonstrates the use of **Controlled Components**, **Props**, and **API Integration**.
 
